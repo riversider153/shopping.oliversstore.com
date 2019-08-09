@@ -3,7 +3,7 @@
 
 [production]
 [web]
-167.71.149.158 ansible_user=ubuntu
+167.71.149.158
 
 [web]
-167.71.149.158 ansible_user=ubuntu
+167.71.149.158
